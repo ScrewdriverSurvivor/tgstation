@@ -2,7 +2,7 @@
 "ad" = (
 /obj/machinery/atmospherics/pipe/simple/orange/visible,
 /obj/effect/turf_decal/arrows/red{
-	pixel_x = -5 
+	pixel_x = -5
 	},
 /obj/machinery/meter,
 /turf/open/floor/engine,
