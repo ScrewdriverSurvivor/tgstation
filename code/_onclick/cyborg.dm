@@ -3,7 +3,7 @@
 
 	Cyborgs have no range restriction on attack_robot(), because it is basically an AI click.
 	However, they do have a range restriction on item use, so they cannot do without the
-	adjacency code.
+	adjacency code...
 */
 
 /mob/living/silicon/robot/ClickOn(var/atom/A, var/params)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Project dependencies file
+#Project dependencies file..
 #Final authority on what's required to fully build the project
 
 # byond version
@@ -14,7 +14,7 @@ fi
 
 #rust_g git tag
 export RUST_G_VERSION=0.4.5.2
-
+ 
 #node version
 export NODE_VERSION=12
 
